@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="show_dev_countdown_cm">
-        <item quantity="one">Ju jeni edhe <xliff:g id="step_count">%1$d</xliff:g> hap larg aktivizimit të parametrave të zhvillimit.</item>
+        <item quantity="one">Ju i jeni edhe <xliff:g id="step_count">%1$d</xliff:g> hap larg aktivizimit të parametrave të zhvillimit.</item>
         <item quantity="other">Ju jeni edhe <xliff:g id="step_count">%1$d</xliff:g> hapa larg aktivizimit të parametrave të zhvillimit.</item>
     </plurals>
     <string name="show_dev_on_cm">Ju keni aktivizuar parametrat e zhvillimit!</string>
