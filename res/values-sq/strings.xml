@@ -232,8 +232,8 @@
     <string name="apply" msgid="7834684883190163536">"Zbato"</string>
     <string name="share" msgid="8502235338607613795">"Ndaj"</string>
     <string name="add" msgid="8335206931421683426">"Shto"</string>
-    <string name="settings_label" msgid="943294133671632976">"Cilësimet"</string>
-    <string name="settings_label_launcher" msgid="820982375501978609">"Cilësimet"</string>
+    <string name="settings_label" msgid="943294133671632976">"Cilësimett"</string>
+    <string name="settings_label_launcher" msgid="820982375501978609">"Cilësimett"</string>
     <string name="settings_shortcut" msgid="8548239727871847171">"Shkurtorja e cilësimeve"</string>
     <string name="airplane_mode" msgid="3196085857882526817">"Modaliteti i aeroplanit"</string>
     <string name="wireless_networks_settings_title" msgid="8557542379234105369">"Wi-Fi dhe rrjetet"</string>
